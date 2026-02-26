@@ -37,7 +37,7 @@ The objective of this dashboard is to:
 - **Power Query** – Data cleaning and transformation. 
 - **Data Modeling** – Relationships and structured reporting.  
 - **CSV Dataset** – Ecommerce sales data.
-- 
+ 
 ## **5️. Key Performance Indicators (KPIs)**
 
 - **Total Sales:** 438K  
