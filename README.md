@@ -85,9 +85,7 @@ This dashboard enables stakeholders to:
 
 ## **10. Dashboard Preview**
 
-<p align="center">
-  <img src="madhav-ecommerce-sales-dashboard-preview.png" width="900">
-</p>
+![Dashboard Preview](https://github.com/ks5632214-dotcom/madhav-ecommerce-sales-dashboard-powerbi/blob/main/madhav-ecommerce-sales-dashboard-main.png.png)
 
 ## **1️1️. How to Use**
 
